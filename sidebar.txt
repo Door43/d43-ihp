@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ihp:home|Door43 (ihp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ihp|d43-ihp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ihp/archive/master.zip|d43-ihp.zip]]
+
+**Recent Changes**
+{{changes>ns = ihp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ihp|Ethnologue data]]
+
